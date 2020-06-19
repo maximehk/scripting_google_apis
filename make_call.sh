@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Good doc:
-# https://developers.google.com/identity/protocols/oauth2/native-app
-
 # These files should be populated manually
 
 # Downloaded from the Cloud Console

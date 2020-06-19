@@ -15,3 +15,9 @@ Download the client_secret file and API key from the Cloud Console and save them
 ## Usage
 
 `./make_call.sh list` or `./make_call.sh clean`
+
+## Additional resources
+
+https://developers.google.com/identity/protocols/oauth2/native-app
+
+
